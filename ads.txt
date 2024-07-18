@@ -1,5 +1,6 @@
 google.com, pub-6134860497379684, DIRECT, f08c47fec0942fa0
 google.com, pub-9210764842309864, DIRECT, f08c47fec0942fa0
+google.com, pub-9176187708210895, DIRECT, f08c47fec0942fa0
 google.com, pub-8454633131846463, DIRECT, f08c47fec0942fa0
 disqus.com, 4893962, DIRECT
 zetaglobal.net, 100, DIRECT
